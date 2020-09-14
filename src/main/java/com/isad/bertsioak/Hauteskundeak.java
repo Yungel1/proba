@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Hauteskundeak {
 
 	private ArrayList<String> mahaiak = new ArrayList<>();
-
+	//kaixo
 	@Override
 	public String toString() {
 		StringBuilder emaitza = new StringBuilder();
