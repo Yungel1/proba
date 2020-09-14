@@ -27,6 +27,7 @@ public class Hauteskundeak {
 		h2021.gehituMahaia("Bergara");
 		h2021.gehituMahaia("Andoain");
 		h2021.gehituMahaia("Hernani");
+		h2021.gehituMahaia("Jonpor");
 
 		System.out.println(h2021);
 	}
